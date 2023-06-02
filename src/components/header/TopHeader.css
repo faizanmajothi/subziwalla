@@ -1,0 +1,11 @@
+.top-header{
+    padding: 0;
+    font-weight: bold;
+    font-size: smaller;
+}
+.discount>a{
+    color:rgb(111, 221, 111)
+}
+.discount>a>span{
+    text-decoration: 2px underline ;
+}

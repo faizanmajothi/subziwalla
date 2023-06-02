@@ -1,0 +1,64 @@
+.main-header {
+  padding: 10%;
+  background: linear-gradient(107deg,rgb(245, 135, 0) 11.1%, rgb(243,132,51) 95.3%);
+}
+
+.mainheader-logo {
+  width: 16%;
+}
+.nav-log>li>a{
+    color: white;
+    font-weight: lighter;
+    font-size: small;
+}
+.nav-log>li>a>.log-in{
+  color: black;
+  margin-right: 5px;
+}
+.nav-log{
+  position: relative;
+  left: 3%;
+}
+
+.main-header img {
+  width: 100%;
+  height: 100%;
+}
+.search-form{
+    margin-right: 10%;
+    position: relative;
+    width: 22% ;
+}
+.search-icon{
+    position: absolute;
+    top:17%;
+    right: -54%;
+    color: gray;
+}
+.short > a {
+  color: white;
+  font-size: normal;
+}
+.search {
+  border-radius: 60px;
+  font-size: medium;
+  border: none;
+  outline: none;
+  width: 160%;
+  color: gray;
+  padding: 3%;
+  text-indent: 8px;
+  margin-right: 0;
+}
+.btn0 {
+  border-radius: 60px;
+  padding: 1%;
+
+  border: none;
+  outline: none;
+}
+
+.btn0 > .cart > span {
+  color: green;
+  margin-left: 12px;
+}

@@ -1,0 +1,46 @@
+.footer-container {
+  display: flex;
+  position: relative;
+  top: 20px;
+  padding: 2%;
+}
+.footer-cart {
+  width: 40%;
+  height: 20%;
+}
+.footer-cart > h4 {
+  font-size: larger;
+  font-weight: lighter;
+}
+.footer-cart > h6 {
+  font-size: small;
+  color: gray;
+  font-weight: lighter;
+}
+.footer-container > .truck {
+
+  transform: rotateY(180deg);
+  font-size: 4rem;
+  position: relative;
+  left: -8px;
+  top: -7px;
+  color: rgb(255, 170, 66);
+}
+.footer-container > .phone {
+    font-size: 3rem;
+    position: relative;
+    left: -8px;
+    color: rgb(255, 170, 66);
+}
+.footer-container > .return {
+  font-size: 3rem;
+  position: relative;
+  left: -8px;
+  color: rgb(255, 170, 66);
+}
+.footer-container > .payment {
+  font-size: 3rem;
+  position: relative;
+  left: -8px;
+  color: rgb(255, 170, 66);
+}

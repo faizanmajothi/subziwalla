@@ -1,0 +1,11 @@
+
+section img{
+    height: 10%;
+}
+
+section>.container>.item-container{
+   position: relative;
+    width: 80%;
+    margin: 10px auto ;
+    height: 90%;
+}
